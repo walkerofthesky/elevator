@@ -1,5 +1,5 @@
-const Elevator = require('./elevator');
+const Building = require('./building');
 
-const myElevator = new Elevator(2);
+const twoStoryMansion = new Building(1, 2);
 
-console.log(myElevator);
+console.log(twoStoryMansion);
