@@ -1,0 +1,22 @@
+{
+  "name": "elevator",
+  "version": "1.0.0",
+  "description": "Design a set of objects to manage elevators.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.11.2"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkerofthesky/elevator.git"
+  },
+  "author": "Dustin Parker adamdustinparker@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkerofthesky/elevator/issues"
+  },
+  "homepage": "https://github.com/walkerofthesky/elevator#readme"
+}
